@@ -1,0 +1,16 @@
+Student_ID,Department,Study_Hours,Screen_Time,Sleep_Hours,Marks
+S01,CSE,6,3,7,82
+S02,IT,5,4,6,75
+S03,AI/ML,7,2,8,88
+S04,Data Science,4,5,6,68
+S05,Cyber Security,3,6,5,60
+S06,CSE,8,2,7,91
+S07,IT,6,3,6,78
+S08,AI/ML,5,4,7,74
+S09,Data Science,7,2,8,86
+S10,Cyber Security,4,5,6,65
+S11,CSE,2,7,5,52
+S12,IT,3,6,5,58
+S13,AI/ML,6,3,7,80
+S14,Data Science,5,4,6,72
+S15,Cyber Security,7,2,8,85
